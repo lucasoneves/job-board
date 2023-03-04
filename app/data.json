@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Senior Front-end Developer",
+    "company": ".add",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQEwerYFmi8Z7g/company-logo_100_100/0/1673636461479?e=1686182400&v=beta&t=hmTNz2BUd0aaHQceZQ9fZZhvzP5YXNiykt1Xf54Tslo",
+    "date": "2023-03-03",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Front End React JS/ Native",
+    "company": "Spott",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQGF-ytQfA27-g/company-logo_100_100/0/1666730268639?e=1686182400&v=beta&t=0OqY1aVus4Sry0OzQ-vlxSyq5aKLt1Uz5qX0Tw0-KzE",
+    "date": "2023-03-03",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "[Micro] Pessoa Desenvolvedora Front End| Especialista",
+    "company": "Stone",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGT_-yf7Xw9dw/company-logo_100_100/0/1673960540356?e=1686182400&v=beta&t=FkOBolA9PoPTNblQJZZRY31c87xC08HYDQHfnbWPxKo",
+    "date": "2023-03-02",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Desenvolvedor(a) ",
+    "company": "Dasa",
+    "image": "https://s3.amazonaws.com/gupy5/production/companies/487/career/32086/images/2021-10-20_14-21_logo.png",
+    "date": "2023-03-03",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  }
+]

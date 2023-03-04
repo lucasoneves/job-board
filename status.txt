@@ -1,0 +1,5 @@
+1 - Currículo enviado
+2 - Entrevista RH
+3 - Teste/Entrevista Técnica
+4 - Entrevista Gestão
+5 - Proposta final

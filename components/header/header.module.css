@@ -1,0 +1,21 @@
+.header nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header ul {
+  display: flex;
+  gap: 30px;
+  color: var(--blue-bell)
+}
+
+.title {
+  font-size: 22px;
+  font-weight: bold;
+  color: var(--blue-bell);
+}
+
+.link {
+  background-color: var(--imperial);
+}
