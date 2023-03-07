@@ -42,5 +42,38 @@
       "title": "Currículo enviado",
       "active": true
     }
+  },
+  {
+    "title": "Desenvolvedor de front-end",
+    "company": "Ligaí Integrações Inteligentes",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFtCwmUveSsIg/company-logo_100_100/0/1650592753284?e=1686182400&v=beta&t=uPF79xaoBIrKqxPsay55DwOdt4EqQGVyYXpRjnKz9V8",
+    "date": "2023-03-06",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Desenvolvedor front-end",
+    "company": "Maitha Tech",
+    "image": "https://media.licdn.com/dms/image/C560BAQF26ki6Qjs7PQ/company-logo_200_200/0/1635953198661?e=1686182400&v=beta&t=MpYBTxpcWJFDPfToROCvkKoOWygHrwYZzizMwHitAo4",
+    "date": "2023-03-07",
+    "status": {
+      "id": 3,
+      "title": "Teste/Entrevista Técnica",
+      "active": true
+    }
+  },
+  {
+    "title": "Senior Front-end Developer",
+    "company": "Ambipar Bleu Technologies",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFA_ULm0E5FXQ/company-logo_100_100/0/1661520626952?e=1686182400&v=beta&t=iCE6XzFK5jXD6uN8xfRsYLKRPeqRDlI2rw_ShIwCcbk",
+    "date": "2023-03-07",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
   }
 ]
