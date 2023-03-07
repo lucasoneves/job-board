@@ -8,9 +8,11 @@ const getData = async (slug) => {
   return {slug};
 };
 
-export default async function jobDetail({ params }) {
+export default async function JobDetail({ params }) {
   const { slug } = params;
   const job = await getData(slug);
+
+  // throw new Error('erro')
   return (
     <>
       <h2>{job.slug}</h2>
