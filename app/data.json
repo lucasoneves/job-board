@@ -123,5 +123,17 @@
       "title": "Currículo enviado",
       "active": true
     }
+  },
+  {
+    "title": "Desenvolvedor de front-end",
+    "company": "SGS & Co",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEwOdUL0kEYIQ/company-logo_100_100/0/1617296297333?e=1686182400&v=beta&t=nxKxgWA9ABI49-cLmQaCe0SzP3sZ6XjjPdfIgLdU2qc",
+    "date": "2023-03-08",
+    "url": "https://www.linkedin.com/jobs/view/3518288093",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
   }
 ]
