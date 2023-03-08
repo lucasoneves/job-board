@@ -75,5 +75,53 @@
       "title": "Currículo enviado",
       "active": true
     }
+  },
+  {
+    "title": "Desenvolvedor de front-end",
+    "company": "Grupo Plan Marketing",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGCBt_J7cxkLw/company-logo_100_100/0/1652309266860?e=1686182400&v=beta&t=4HNc05MM8RqYCYkDV66fSN2qixJEXlTv_XvDkWKz0sA",
+    "date": "2023-03-07",
+    "url": "https://www.linkedin.com/jobs/view/3509819509",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "ECS | Pessoa Desenvolvedora Frontend Pleno",
+    "company": "Serasa Experian",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEVEWVqVIMung/company-logo_100_100/0/1650319092343?e=1686182400&v=beta&t=e9z-6DfFvg5pC0WnLc4EFa5I7cZ6zJf8PDkizKb2PGw",
+    "date": "2023-03-07",
+    "url": "https://www.linkedin.com/jobs/view/3509387414",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Desenvolvedor Frontend (React) Sênior - (27645)",
+    "company": "EVT",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQF5uyoYFv8_Xw/company-logo_200_200/0/1671568287744?e=1686182400&v=beta&t=Osed8k6udUmvERTo7O6ZvFdt7O4ADRFi7I5NSj0RyGo",
+    "date": "2023-03-08",
+    "url": "https://www.linkedin.com/jobs/view/3511408152",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "DESENVOLVEDOR Front End - React",
+    "company": "Hominiss Solutions ",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQEoJh2jhwGwhQ/company-logo_100_100/0/1553793901689?e=1686182400&v=beta&t=xYfPrcAyp8YBdvfVJ9DsIO8gNVN_uhLSu6QT64DR4Zo",
+    "date": "2023-03-08",
+    "url": "https://www.linkedin.com/jobs/view/3512898086",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
   }
 ]
