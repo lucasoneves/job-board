@@ -135,5 +135,29 @@
       "title": "Currículo enviado",
       "active": true
     }
+  },
+  {
+    "title": "Front-end Developer",
+    "company": "Kodif",
+    "image": "https://photos.angel.co/startups/i/8396463-e494bc8dfc77f91792e0a3006a19fc80-medium_jpg.jpg?buster=1667348589",
+    "date": "2023-03-08",
+    "url": "https://angel.co/jobs?job_listing_id=2583720",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Frontend Senior",
+    "company": "360 Suítes",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFDhBay_H9DCA/company-logo_100_100/0/1594215177803?e=1686182400&v=beta&t=DQw9gfsj7yqwvixDj8l8SIkegiQjkZPzvkhO892ivJE",
+    "date": "2023-03-09",
+    "url": "https://www.linkedin.com/jobs/view/3504161853",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
   }
 ]

@@ -3,6 +3,29 @@ import "./assets/css/globals.css";
 import "./assets/css/colors.css";
 
 import Header from "@/components/header";
+import { initializeApp } from "firebase/app";
+const firebaseConfig = {
+
+  apiKey: "AIzaSyCYAtyxKyA7Hh4fwQ8h_cHSO1CrQ5R1gZ8",
+
+  authDomain: "job-board-34db1.firebaseapp.com",
+
+  databaseURL: "https://job-board-34db1-default-rtdb.firebaseio.com",
+
+  projectId: "job-board-34db1",
+
+  storageBucket: "job-board-34db1.appspot.com",
+
+  messagingSenderId: "1027206871342",
+
+  appId: "1:1027206871342:web:aa5f2caae82ca6b4d6a2bf",
+
+  measurementId: "G-9PT3EEC744"
+
+};
+
+const app = initializeApp(firebaseConfig);
+// const analytics = getAnalytics(app);
 
 export const metadata = {
   title: "Create Next App",
@@ -25,3 +48,4 @@ export default function RootLayout({
     </html>
   );
 }
+
