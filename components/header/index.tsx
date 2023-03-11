@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export default function Header() {
   return (
-    <header className="drop-shadow-md bg-slate-300 p-5">
+    <header className={styles.header}>
       <nav className="container flex items-center justify-between">
         <h2 className="text-3xl font-bold">job board</h2>
         <ul className="flex items-center justify-between gap-10">

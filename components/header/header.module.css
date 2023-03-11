@@ -1,3 +1,9 @@
+.header {
+  background: #222;
+  padding: 30px;
+  color: #fff;
+}
+
 .header nav {
   display: flex;
   justify-content: space-between;
@@ -8,6 +14,11 @@
   display: flex;
   gap: 30px;
   color: var(--blue-bell)
+}
+
+.header ul a {
+  color: #fff;
+  font-weight: bold;
 }
 
 .title {

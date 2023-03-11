@@ -159,5 +159,17 @@
       "title": "Currículo enviado",
       "active": true
     }
+  },
+  {
+    "title": "Frontend Senior",
+    "company": "OSBR - Optimus Serviços do Brasil",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHGReKTVKDg3Q/company-logo_100_100/0/1594068787979?e=1686787200&v=beta&t=zk_B0mL6bXtIPC-s6Lg7hXcGCQpEK4yIbIdNWfAb1EM",
+    "date": "2023-03-10",
+    "url": "https://www.linkedin.com/jobs/view/3519809924",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
   }
 ]
