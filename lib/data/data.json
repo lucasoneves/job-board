@@ -1,0 +1,175 @@
+[
+  {
+    "title": "Senior Front-end Developer",
+    "company": ".add",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQEwerYFmi8Z7g/company-logo_100_100/0/1673636461479?e=1686182400&v=beta&t=hmTNz2BUd0aaHQceZQ9fZZhvzP5YXNiykt1Xf54Tslo",
+    "date": "2023-03-03",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Front End React JS/ Native",
+    "company": "Spott",
+    "image": "https://media.licdn.com/dms/image/D4D0BAQGF-ytQfA27-g/company-logo_100_100/0/1666730268639?e=1686182400&v=beta&t=0OqY1aVus4Sry0OzQ-vlxSyq5aKLt1Uz5qX0Tw0-KzE",
+    "date": "2023-03-03",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "[Micro] Pessoa Desenvolvedora Front End| Especialista",
+    "company": "Stone",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGT_-yf7Xw9dw/company-logo_100_100/0/1673960540356?e=1686182400&v=beta&t=FkOBolA9PoPTNblQJZZRY31c87xC08HYDQHfnbWPxKo",
+    "date": "2023-03-02",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Desenvolvedor(a) ",
+    "company": "Dasa",
+    "image": "https://s3.amazonaws.com/gupy5/production/companies/487/career/32086/images/2021-10-20_14-21_logo.png",
+    "date": "2023-03-03",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Desenvolvedor de front-end",
+    "company": "Ligaí Integrações Inteligentes",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFtCwmUveSsIg/company-logo_100_100/0/1650592753284?e=1686182400&v=beta&t=uPF79xaoBIrKqxPsay55DwOdt4EqQGVyYXpRjnKz9V8",
+    "date": "2023-03-06",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Desenvolvedor front-end",
+    "company": "Maitha Tech",
+    "image": "https://media.licdn.com/dms/image/C560BAQF26ki6Qjs7PQ/company-logo_200_200/0/1635953198661?e=1686182400&v=beta&t=MpYBTxpcWJFDPfToROCvkKoOWygHrwYZzizMwHitAo4",
+    "date": "2023-03-07",
+    "status": {
+      "id": 3,
+      "title": "Teste/Entrevista Técnica",
+      "active": true
+    }
+  },
+  {
+    "title": "Senior Front-end Developer",
+    "company": "Ambipar Bleu Technologies",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFA_ULm0E5FXQ/company-logo_100_100/0/1661520626952?e=1686182400&v=beta&t=iCE6XzFK5jXD6uN8xfRsYLKRPeqRDlI2rw_ShIwCcbk",
+    "date": "2023-03-07",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Desenvolvedor de front-end",
+    "company": "Grupo Plan Marketing",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQGCBt_J7cxkLw/company-logo_100_100/0/1652309266860?e=1686182400&v=beta&t=4HNc05MM8RqYCYkDV66fSN2qixJEXlTv_XvDkWKz0sA",
+    "date": "2023-03-07",
+    "url": "https://www.linkedin.com/jobs/view/3509819509",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "ECS | Pessoa Desenvolvedora Frontend Pleno",
+    "company": "Serasa Experian",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEVEWVqVIMung/company-logo_100_100/0/1650319092343?e=1686182400&v=beta&t=e9z-6DfFvg5pC0WnLc4EFa5I7cZ6zJf8PDkizKb2PGw",
+    "date": "2023-03-07",
+    "url": "https://www.linkedin.com/jobs/view/3509387414",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Desenvolvedor Frontend (React) Sênior - (27645)",
+    "company": "EVT",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQF5uyoYFv8_Xw/company-logo_200_200/0/1671568287744?e=1686182400&v=beta&t=Osed8k6udUmvERTo7O6ZvFdt7O4ADRFi7I5NSj0RyGo",
+    "date": "2023-03-08",
+    "url": "https://www.linkedin.com/jobs/view/3511408152",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "DESENVOLVEDOR Front End - React",
+    "company": "Hominiss Solutions ",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQEoJh2jhwGwhQ/company-logo_100_100/0/1553793901689?e=1686182400&v=beta&t=xYfPrcAyp8YBdvfVJ9DsIO8gNVN_uhLSu6QT64DR4Zo",
+    "date": "2023-03-08",
+    "url": "https://www.linkedin.com/jobs/view/3512898086",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Desenvolvedor de front-end",
+    "company": "SGS & Co",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQEwOdUL0kEYIQ/company-logo_100_100/0/1617296297333?e=1686182400&v=beta&t=nxKxgWA9ABI49-cLmQaCe0SzP3sZ6XjjPdfIgLdU2qc",
+    "date": "2023-03-08",
+    "url": "https://www.linkedin.com/jobs/view/3518288093",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Front-end Developer",
+    "company": "Kodif",
+    "image": "https://photos.angel.co/startups/i/8396463-e494bc8dfc77f91792e0a3006a19fc80-medium_jpg.jpg?buster=1667348589",
+    "date": "2023-03-08",
+    "url": "https://angel.co/jobs?job_listing_id=2583720",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Frontend Senior",
+    "company": "360 Suítes",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQFDhBay_H9DCA/company-logo_100_100/0/1594215177803?e=1686182400&v=beta&t=DQw9gfsj7yqwvixDj8l8SIkegiQjkZPzvkhO892ivJE",
+    "date": "2023-03-09",
+    "url": "https://www.linkedin.com/jobs/view/3504161853",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  },
+  {
+    "title": "Frontend Senior",
+    "company": "OSBR - Optimus Serviços do Brasil",
+    "image": "https://media.licdn.com/dms/image/C4E0BAQHGReKTVKDg3Q/company-logo_100_100/0/1594068787979?e=1686787200&v=beta&t=zk_B0mL6bXtIPC-s6Lg7hXcGCQpEK4yIbIdNWfAb1EM",
+    "date": "2023-03-10",
+    "url": "https://www.linkedin.com/jobs/view/3519809924",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
+  }
+]
