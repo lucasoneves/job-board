@@ -171,5 +171,17 @@
       "title": "Currículo enviado",
       "active": true
     }
+  },
+  {
+    "title": "Pessoa Desenvolvedora Front End ",
+    "company": " Sponte",
+    "image": "https://media.licdn.com/dms/image/C4D0BAQG5eqXQCAbSCg/company-logo_100_100/0/1670243559149?e=1686787200&v=beta&t=Q1H_qvVWIcPuLZv52ElSCKibknBogLBAg6X7iW_UQ1g",
+    "date": "2023-03-14",
+    "url": "https://www.linkedin.com/jobs/view/3522659277",
+    "status": {
+      "id": 1,
+      "title": "Currículo enviado",
+      "active": true
+    }
   }
 ]
