@@ -1,6 +1,6 @@
-import "./assets/css/reset.css";
-import "./assets/css/globals.css";
-import "./assets/css/colors.css";
+import "../assets/css/reset.css";
+import "../assets/css/globals.css";
+import "../assets/css/colors.css";
 
 import Header from "@/components/header";
 import { initializeApp } from "firebase/app";
