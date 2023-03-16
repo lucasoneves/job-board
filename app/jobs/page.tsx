@@ -3,7 +3,6 @@ import JobItem from "@/components/JobItem";
 
 export default async function Jobs() {
   const data = await getJobs();
-  console.log("jobs ====>", data);
   return (
     <div>
       <h2>Jobs</h2>
