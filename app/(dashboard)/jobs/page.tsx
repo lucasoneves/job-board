@@ -5,7 +5,7 @@ export default async function Jobs() {
   const data = await getJobs();
   return (
     <div>
-      <h2>Jobs</h2>
+      <h2 className="pageTitle">Seus jobs cadastrados:</h2>
       {data.map((job, index) => (
         <JobItem
           key={index}
