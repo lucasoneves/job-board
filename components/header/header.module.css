@@ -2,6 +2,8 @@
   background: #222;
   padding: 30px;
   color: #fff;
+  position: sticky;
+  top: 0;
 }
 
 .header nav {
@@ -13,7 +15,7 @@
 .header ul {
   display: flex;
   gap: 30px;
-  color: var(--blue-bell)
+  color: var(--blue-bell);
 }
 
 .header ul a {

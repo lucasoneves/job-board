@@ -14,6 +14,11 @@ body {
 
 .container {
   max-width: 768px;
-  padding: 0 15px;
+  padding: 50px 15px;
   margin: 0 auto;
+}
+
+.pageTitle {
+  font-size: 30px;
+  font-weight: bold;
 }
