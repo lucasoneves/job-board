@@ -23,6 +23,7 @@
     "eslint": "8.35.0",
     "eslint-config-next": "13.2.3",
     "firebase": "^9.17.2",
+    "jose": "^4.13.1",
     "next": "13.2.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",
@@ -33,6 +34,7 @@
   },
   "devDependencies": {
     "@types/bcrypt": "^5.0.0",
+    "@types/cookie": "^0.5.1",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.21",
     "prisma": "^4.11.0",
