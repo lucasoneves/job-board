@@ -17,6 +17,8 @@ export default async function register(
       },
     });
 
+    console.log("DATA =>", req.body);
+
     const jwt = await createJWT(user);
 
     res.setHeader(
@@ -29,6 +31,6 @@ export default async function register(
     );
 
     res.status(201);
-    res.end();
+    res.json({});
   }
 }
