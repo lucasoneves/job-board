@@ -2,7 +2,7 @@ import Link from "next/link";
 import "@/assets/css/reset.css";
 import "@/assets/css/colors.css";
 import "@/assets/css/globals.css";
-import Header from "@/components/header";
+import Header from "@/components/Header";
 
 export default function DashboardLayout({ children }) {
   return (
