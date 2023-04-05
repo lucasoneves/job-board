@@ -1,3 +1,5 @@
+import Greetings from "@/components/Greetings";
+
 export default function Home() {
-  return <h2>Home</h2>;
+  return <Greetings />;
 }
