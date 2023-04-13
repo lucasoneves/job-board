@@ -1,5 +1,5 @@
 const GreetingSkeleton = () => {
-    return <h2>Loading...</h2>
-}
+  return <h2>Loading.......</h2>;
+};
 
-export default GreetingSkeleton
+export default GreetingSkeleton;
